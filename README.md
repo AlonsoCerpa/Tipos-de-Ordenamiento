@@ -1,2 +1,2 @@
 # Tipos-de-Ordenamiento
-Ejemplos de los diferentes tipos de ordenamiento en Python
+print "Ejemplos de los diferentes tipos de ordenamiento en Python"
